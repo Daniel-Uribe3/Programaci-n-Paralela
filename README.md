@@ -1,2 +1,2 @@
-# Programaci-n-Paralela
+# Programacion-Paralela
 r0pbaby
